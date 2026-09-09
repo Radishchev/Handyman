@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+
+# Dataset and analysis folders
+BRUSH/
+BRUSH_JSON/
+BRUSH_FEATURES/
+BRUSH_ANALYSIS/
+FEATURE_ANALYSIS/
+CHARACTER_ANALYSIS/
+CHARACTER_WRITER_ANALYSIS/
+WRITER_ANALYSIS/
+TRAINING_DATA/
+
+# Model outputs
+CHECKPOINTS/
+GENERATED/
+
+# Presentation / media
+Presentation/
+media/
+
+# Temporary / editor files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
